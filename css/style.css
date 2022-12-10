@@ -1,0 +1,38 @@
+body {
+  background-color: black;
+  color: white;
+  font-weight: lighter;
+}
+
+/* header style */
+h5 {
+  font-size: 1rem;
+  background-color: black;
+}
+
+/* select option */
+select {
+  padding: 10px;
+  width: 150px;
+  color: white;
+  background-color: black;
+  border-color: white;
+}
+
+.card {
+ border-color: white;
+ border-style:groove;
+ border-radius: 5px;
+ width: 410px;
+ height: 20px;
+ padding: 15px;
+ margin-top: 30px;
+ font-weight: lighter;
+}
+
+.filterButton{
+ padding: 5px;
+ text-align: center;
+ width: 150px;
+ margin-top: 30px;
+}
